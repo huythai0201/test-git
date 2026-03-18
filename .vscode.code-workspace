@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"name": ".vscode",
+			"path": "../../.vscode"
+		},
+		{
+			"name": "PYTHON_TUTORIAL",
+			"path": "../PYTHON_TUTORIAL"
+		},
+		{
+			"path": "../test"
+		},
+		{
+			"path": "../viết chuyển từ độ c sang độ F"
+		},
+		{
+			"path": "../BAI3"
+		},
+		{
+			"path": "../bài 4"
+		},
+		{
+			"path": "../BAI4"
+		},
+		{
+			"path": "../../../../hust/computervision"
+		},
+		{
+			"path": "../gith.hust"
+		},
+		{
+			"path": "../githb.hust"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
